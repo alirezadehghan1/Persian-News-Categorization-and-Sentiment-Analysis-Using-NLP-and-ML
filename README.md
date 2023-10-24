@@ -1,3 +1,3 @@
 # Persian News Categorization and Sentiment Analysis Using NLP and ML
-****Abstract:
+****Abstract****:
 text classification on Persian text data by comparing different vectorization techniques like TF-IDF and Bag of Words, and evaluating various machine learning models such as SVM, logistic regression, etc. for multi-class classification of categories based on preprocessed title, body and abstract text fields. data ingestion, text preprocessing, vectorization, model training and evaluation using cross-validation, final testing on held-out set, and comparative analysis of model performance using accuracy and F1 score to determine the best approaches for Persian text classification.
